@@ -31,4 +31,11 @@ Langkah-langkah Praktikum
 ![image](https://user-images.githubusercontent.com/101645216/170858171-8aa619fd-c189-41f6-a5f0-01afaf9b5697.png)
  
  
+Tugas 
+
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
+database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
+
+![image](https://user-images.githubusercontent.com/101645216/170863307-99941f01-f486-4a23-9971-2d139cb56311.png)
 
